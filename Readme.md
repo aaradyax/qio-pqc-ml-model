@@ -1,4 +1,4 @@
-# Quantum Variational Classifier with Qiskit (PQC on Make-Moons Dataset)
+# PARAMETERIZED QUANTUM CIRCUIT AS MACHINE LEARNING MODEL (Make-Moons Dataset)
 
 This project implements a binary quantum classifier using a Parameterized Quantum Circuit
 (PQC) built with Qiskit 2.0.
